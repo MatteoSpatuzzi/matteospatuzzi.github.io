@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant and tutor in Bioinformatics to Prof. Carl Herrmann"
+title: "Teaching assistant in Bioinformatics to Prof. Carl Herrmann"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,4 +8,4 @@ date: 2020-10-15
 location: "Hedeilberg, Germany"
 ---
 
-In this position, I worked for 1 year as a teaching assistant for younger students in my major of molecular biotechnology. I assisted Prof. Dr. Carl Herrmann in the creation and maintenance of excersise sheets for R beginner's course for students in the year before me. These sheets were designed to be interactive Rmarkdown documents to replace the pre-pandemic excersise sheets. Furthermore, I followed, mentored and assisted 4 teams of 4 Bachelor students each along their first data analysis project in R on the topic of DNA methylation in AML and ALL cancer data. 
+In this position, I worked for 1 year as a teaching assistant for younger students in my major of molecular biotechnology. I assisted Prof. Dr. Carl Herrmann in the creation and maintenance of excersise sheets for R beginner's course for students in the year before me. These sheets were designed to be interactive Rmarkdown documents to replace the pre-pandemic excersise sheets.
