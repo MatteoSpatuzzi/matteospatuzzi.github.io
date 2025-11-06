@@ -1,4 +1,4 @@
----
+<img width="468" height="184" alt="image" src="https://github.com/user-attachments/assets/9c1714b9-cdd7-4fad-ab23-4ae0b95b978e" />---
 layout: archive
 #title: "CV"
 permalink: /cv/
@@ -9,88 +9,152 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-------
-* BSc with distinction: cum laude, awarded by [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), an honours college of [Utrecht University](https://www.uu.nl/en) in 2018.
+# **Matteo Spatuzzi**  
+_M.Sc. Molecular Biotechnology (Bioinformatics)_  
 
-Science major, completed Cognitive Neuroscience, Chemistry, Molecular Cell Biology, and Medicine tracks. Gained the '[Pre-Med](https://students.uu.nl/en/university-college-utrecht/academics/science/medical-science)' qualification recognised by research medical doctor master programmes in the Netherlands.
+📧 **Email:** [matteo.spatuzzi@gmail.com](mailto:matteo.spatuzzi@gmail.com)  
+🔗 **ResearchGate:** https://www.researchgate.net/profile/Matteo-Spatuzzi  
+🔗 **GitHub:** https://github.com/MatteoSpatuzzi
 
-* MSc with distinction: cum laude, awarded by the [Molecular Biosciences](https://www.uni-heidelberg.de/en/study/all-subjects/molecular-biosciences/molecular-biosciences-master) programme at [Heidelberg University](https://www.uni-heidelberg.de/en) in 2021.
+---
 
-Focused in Bioinformatics and Computational Biology.
+## **Personal Summary**
 
-* PhD degree in Bioinformatics and Systems Biology awarded by [PSL University](https://psl.eu/en), with the speciality in Informatics, the 4th of June, 2025.
+I am a bioinformatician with a strong interest in data science and programming. I enjoy solving complex challenges using classical statistical methods and machine learning approaches. I am highly experienced in Python and R for data analysis and pipeline development, including the use of Docker and Nextflow. My interdisciplinary background in molecular biotechnology provided a comprehensive foundation in molecular biology, biophysics, and biotechnology, along with research laboratory experience.
 
-Project focused on the development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
+---
 
-Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. 
+## **Education**
 
-Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-universite.fr/ecoles-doctorales/complexite-du-vivant), [Sorbonne University](https://www.sorbonne-universite.fr/en).
+### **M.Sc. Molecular Biotechnology (Bioinformatics Specialisation)**  
+**Heidelberg University**, Faculty of Engineering, Heidelberg, Germany *(2021–2024)*  
+**Supervisor:** Prof. Carl Herrmann  
+**Thesis:** _Machine learning–based integration of spatial transcriptomics and single-cell multiomics neuroblastoma datasets_  
 
+- Benchmarked multi-omics integration of scRNA-seq and scATAC-seq into 10x Xenium neuroblastoma samples  
+- Evaluated integration quality by reconstruction accuracy and cluster preservation  
+- Applied GSEA to integrated spatial multi-omic data to characterise spatial cell clusters (e.g. proliferating vs migrating neuroblasts)  
 
-Research experience
-------
-* 09 2021 - 08 2025: PhD project
-  * The [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168) (UMR168), [Institut Curie](https://institut-curie.org/)
-  * The development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
-  * Thesis title: Automated Image Processing of Membranes and Membrane Proteins in Cryo-Electron Tomography
-  * Speciality: Informatics
-  * Hosted by the [Molecular Microscopy of Membranes](https://institut-curie.org/team/levy) team led by Dr. Daniel Lévy
-  * Supervised by [Dr. Daniel Lévy](https://institut-curie.org/personne/daniel-levy) & [Dr. Manuela Dezi](https://institut-curie.org/personne/manuela-dezi)
-  * Thesis committee members: [Prof. Simon Anders](https://www.zmbh.uni-heidelberg.de/Anders/), [Dr. Mickael Cohen](http://www.ibpc.fr/en/members-829.htm), & [Dr. Slavica Jonic](https://scai.sorbonne-universite.fr/public/profiles/view/2c3baf02ede0fc8c6be1/67)
-  * Jury members: [Prof. José María Carazo](https://i2pc.es/carazo/) & [Dr. Irina Gutsche](https://www.ibs.fr/en/research/assembly-dynamics-and-reactivity/microscopic-imaging-of-complex-assemblies-mica-group-i-gutsche/?lang=en) as reviewers, [Dr. Charles Kervrann](https://team.inria.fr/serpico/team-members/charles-kervrann-2/) as president of the jury/the representative examiner of PSL University, [Prof. Daniel Castaño Díez](https://www.biofisika.org/en/research/numerical-methods-cryo-electron-tomography) & [Dr. Emmanuelle Quemin](https://www.i2bc.paris-saclay.fr/replication-and-assembly-of-poxviruses/) as external examiners.
+### **B.Sc. Molecular Biotechnology (Bioinformatics Specialisation)**  
+**Heidelberg University**, Faculty of Biosciences, Heidelberg, Germany *(2017–2021)*  
+**Supervisor:** Prof. Julio Saez-Rodriguez  
+**Thesis:** _Evaluation of the protein network perturbation causal analysis tool CARNIVAL_  
 
+---
 
-* 03 2020 - 08 2021: Master thesis
-  * The [Structural and Computational Biology unit](https://www.embl.org/research/units/structural-and-computational-biology/), the [European Molecular Biology Laboratory (EMBL) Heidelberg](https://www.embl.org/sites/heidelberg/)
-  * The development of an image processing pipeline for resolving structures of the Mumps viral capsid in the cellular context by means of in situ cryo-electron tomography.
-  * Hosted by the [Mahamid group](https://www.embl.org/groups/mahamid/) led by Dr. Julia Mahamid
-  * Supervised by Dr. Xiaojie Zhang & Dr. Julia Mahamid
-  * Examiners: Prof. Rebecca Wade & Prof. Georg Stoecklin 
-  * Publication: [Molecular mechanisms of stress-induced reactivation in mumps virus condensates](https://www.sciencedirect.com/science/article/pii/S0092867423002763).
+## **Professional Experience**
 
- 
-* 01 - 02 2020: Internship
-  * [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/)
-  * Evaluation, improvement and benchmarking of the novel drug-target residence time (τ) estimating molecular dynamics sampling computational method: τ-random acceleration molecular dynamics (τRAMD), used for the ranking of drug candidates according to their τ and gaining insights into ligand-target dissociation mechanisms.
-  * Hosted by the [Molecular and Cellular Modelling](https://www.h-its.org/research/mcm/) group led by Prof. Rebecca Wade
-  * Supervised by Dr. Daria Kokh
-  * Publication: [A workflow for exploring ligand dissociation from a macromolecule: Efficient random acceleration molecular dynamics simulation and interaction fingerprint analysis of ligand trajectories](https://pubs.aip.org/aip/jcp/article-abstract/153/12/125102/1062851/A-workflow-for-exploring-ligand-dissociation-from?redirectedFrom=fulltext).
+### **Data Scientist**  
+**European Molecular Biology Laboratory (EMBL)** *(Nov 2024 – Sep 2025)*  
 
- 
-* 09 - 12 2019: Internship
-  * [Centre for Molecular Biology Heidelberg (ZMBH)](https://www.zmbh.uni-heidelberg.de/)
-  * Single-cell transcriptomics-based study of the interaction between Sertoli cell and cells of spermatogenesis in the fast-evolving testis across human and animal species. Mentored by Dr. Simon Anders on the development of a novel method for continuous classification of single cells.
-  * Hosted by the [Kaessmann group](https://www.zmbh.uni-heidelberg.de/Kaessmann/default.shtml) led by Prof. Henrik Kaessmann
-  * Supervised by Dr. Florent Murat
+- Developed data analysis pipelines for _D. melanogaster_ developmental and behavioural screens  
+- Designed a full data processing and analysis workflow including a Data Management Plan and curated database  
+- Developed interactive R Shiny applications to enable independent data exploration  
+- 3-month visiting scientist exchange at Institut Pasteur, Paris  
 
+### **Software Developer Intern**  
+**MobiTech GmbH**, Tübingen *(Feb 2022 – Sep 2022)*  
 
-* 04 - 08 2019: Internship
-  * [German Cancer Research Centre (DKFZ)](https://www.dkfz.de/en/index.html)
-  * Electron spray ionisation mass spectrometry-based characterization of proteins in the polycomb repressive complex 2 (PRC2, a key epigenetic regulator for normal development and various diseases) and investigation of their recruitment in cancer. 
-  * Hosted by the [Division of Proteomics of Stem Cells and Cancer](https://www.dkfz.de/en/proteomik-stammzellen-krebs/index.php) led by Prof. Jeroen Krijgsveld
-  * Supervised by Dr. Dimitris Papageorgiou
+- Contributed to development of the mobility app **“Oeffis”**  
+- Implemented Python backend components including data models and heuristic algorithms for optimisation tasks  
+- Ensured compliance with data protection and client information security  
 
+---
 
-* 02 - 03 2019: Internship
-  * [Max Planck Institute for Medical Research](https://www.mr.mpg.de/en)
-  * Giant unilamellar vesicle-based microfluidics fabrication of uniform human neural co-culture spheroids for high-throughput microplastic neurotoxicity screening, original and independent research project. 
-  * Hosted by the [Department of Cellular Biophysics](https://www.mr.mpg.de/13943505/cellular_biophysics) led by Prof. Joachim Spatz
-  * Supervised by PhD candidate Oskar Staufer
+## **Publications**
 
+Lautaro Gandara, Richard Jacoby, François Laurent, **Matteo Spatuzzi**, et al. (2024).  
+**Pervasive sublethal effects of agrochemicals as contributing factors to insect decline**.  
+_Science_. https://doi.org/10.1126/science.ado0251  
 
-* 10 2017 - 08 2018: Bachelor thesis
-  * [Hubrecht Institute](https://www.hubrecht.eu/)
-  * Projects: 1) Induction of the differentiation of gastric endocrine and exocrine cells in human stomach organoids, 2) and Epstein-Barr virus-positive gastric adenocarcinoma modelling with human stomach organoids using genome editing strategies (CRISPR/Cas9 and lentivirus infection). 
-  * Hosted by the [Clevers group](https://www.hubrecht.eu/research-groups/clevers-group/) led by Prof. Hans Clevers
-  * Supervised by Dr. Georg Busslinger
-  * Examiner: Dr. Bas Defize
+---
 
+## **Research Internships (6)**
 
-* 07 - 09 2017: Internship
-  * [Regenerative Medicine Centre Utrecht](https://www.umcutrecht.nl/en/regenerative-medicine-center-utrecht), [University Medical Centre Utrecht](https://www.umcutrecht.nl/en)
-  * Introduced to cell/tissue culture, and confocal imaging with fluorescence-stained hydrogel-based 3D tissue culture for the development of heart-on-a-chip used to investigate patient-specific cardiac remodelling following myocardial infarction. Literature study on the use of nanoparticles for cardiac repair. Selected through the University College Utrecht Alumni Internship program.
-  * Supervised by Dr. Tom Bracco Gartner & Dr. Jesper Hjortnaes
+**Data Analysis & Method Development Intern** *(Apr 2023 – Jun 2023)*  
+**EMBL Heidelberg** – Prof. Justin Crocker  
+- Developed behavioural data analysis methods for _D. melanogaster_ toxicology screening  
+- Contributed data and analysis to Science publication https://doi.org/10.1126/science.ado0251  
+
+**Master Research Intern** *(Oct 2022 – Mar 2023)*  
+**Institut Jacques-Monod, Paris** – Prof. Renée Marc-Mège & Prof. Benoit Ladoux  
+- Implemented synthetic DNA linker-based cell adhesion system in E-Cadherin–negative MDCK cells  
+
+**Master Research Intern** *(May 2022 – Jul 2022)*  
+**DKFZ, Heidelberg** – Dr. Nicholas Gunkel  
+- Assisted with vector cloning for _E. coli_ lineage expressing SETDB1  
+
+**Master Research Intern** *(Oct 2021 – Feb 2022)*  
+**Australian National University, Canberra** – Prof. Lindell Bromham  
+- Developed R pipeline integrating sequencing and phylogenetic data for evolutionary analysis  
+
+**Bachelor Research Intern** *(Aug 2019 – Sep 2019)*  
+**InFront, Kyoto** – Prof. Atsushi Mochizuki  
+- Applied graph theory for inference of protein interaction network behaviour  
+
+---
+
+## **Research Skills**
+
+**Data Science & Computing:**  
+Python (advanced), R (advanced), Multivariate analysis, Statistical modelling, Machine learning model development, Deep learning with PyTorch, Experimental screen analysis, Pipeline development (Docker, Nextflow)  
+
+**Bioinformatics:**  
+Bulk, single-cell and spatial omics analysis, Differential gene expression, Gene set enrichment analysis, Multi-omics integration  
+
+**Wet Lab:**  
+Prokaryotic & mammalian (MDCK) cell culture, _D. melanogaster_ husbandry, DNA isolation, PCR, cloning, gel electrophoresis, antibody staining, confocal microscopy  
+
+---
+
+## **Teaching & Science Communication**
+
+**Course Speaker** – _Cell Biology and Omics for Educators_ *(Apr/Oct 2025)*  
+- Delivered introductory lectures on omics technologies to 100+ non-expert educators  
+
+**Bioinformatics Tutor & Teaching Assistant** *(Apr 2020 – Feb 2021)*  
+**Heidelberg University**  
+- Adapted two semesters of Bioinformatics coursework for online teaching  
+- Developed R Shiny apps and RMarkdown resources for interactive coding practice  
+- Supervised 16 students on their first bioinformatics projects  
+
+---
+
+## **Selected Courses & Training**
+
+- Introduction to Project Management – Google Courses, Coursera *(Jul 2025)*  
+- Scientific Outreach Training – EMBL SEPE *(Dec 2024)*  
+- Deep Learning (DeepLife24) – Heidelberg University *(Dec 2023 – Jun 2024)*  
+- Machine Learning & AI – Prof. Benedikt Brors, DKFZ *(Dec 2023 – Apr 2024)*  
+- Reproducibility in Biomedical Research – BioQuant, Heidelberg *(Sep 2021 – Oct 2022)*  
+
+---
+
+## ** Prizes and Grants **
+
+- **Danish Data Science Academy (DDSA)** Visit Grant to the Health Data Science Institute HeaDs in Copenhagen:  10.100 DKK, 2024  
+- **Erasmus+**, international internship funding for internship at CNRS in Paris: ca. 2000 €, 2022  
+- **DAAD RISE**, international internship funding for internship in Canberra: ca. 12 000 € 
+- **Nakatani FoundaEon RISE program** for cultural exchange and international research internship at the inFront Institute in Kyoto: ~ 10 000 €, 2019  
+- **German Science and Engineering Organization** Graduation prize & **German Mathematician Organization** Graduation prize, 2017  
+
+## **Other Information**
+
+**Languages:** Italian (fluent), German (fluent), English (fluent), French (beginner), Danish (beginner)  
+
+---
+
+## **Academic References**
+
+**Dr. Justin Crocker**  
+Group Leader – Gene Regulation During Evolution and Development  
+EMBL Heidelberg  
+📧 [justin.crocker@embl.de](mailto:justin.crocker@embl.de)  
+
+**Prof. Carl Herrmann**  
+Computational Regulatory Omics Lab  
+Bioinformatics Unit, BioQuant, IPMB Heidelberg  
+📧 [carl.herrmann@uni-heidelberg.de](mailto:carl.herrmann@uni-heidelberg.de)  
 
  
 
