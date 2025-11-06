@@ -33,11 +33,11 @@ I completed my bachelor studies in Molecular Biotechnology (Faculty of Bioscienc
 Hobbies
 ------
 
-Digital Art and Illustration
-Science Education and Communication
-Strategy Boardgames
-Tabletop RPGS
-Tennis, Tabletennis,  Snowboarding
+Digital Art and Illustration<br>
+Science Education and Communication<br>
+Strategy Boardgames<br>
+Tabletop RPGS<br>
+Tennis, Tabletennis,  Snowboarding<br>
 
 Contact
 ------
