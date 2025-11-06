@@ -1,5 +1,5 @@
 ---
-title: "Bioinformatics "
+title: "Bioinformatics Tutor"
 collection: teaching
 type: "Bioinfromatics Tutor"
 permalink: /teaching/2014-spring-teaching-1
