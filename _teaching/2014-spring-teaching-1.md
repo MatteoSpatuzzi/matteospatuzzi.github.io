@@ -1,11 +1,11 @@
 ---
-title: "Master internship student supervison"
+title: "Teaching assistant and tutor in Bioinformatics to Prof. Carl Herrmann"
 collection: teaching
-type: "Master year 1 internship"
+type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "the Physical Chemistry Curie Lab, Institut Curie"
-date: 2022-04-01
-location: "Paris, France"
+venue: "Computational Regulatory Omics Laboratory (CROmLab)"
+date: 2020-10-15
+location: "Hedeilberg, Germany"
 ---
 
-Assisted supervision of the following master year 1 students from the [Master Biologie Moléculaire et Cellulaire](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-biologie-moleculaire-et-cellulaire-bmc) programme at Sorbonne University in membrane protein purification (theory & practice): [Kailun Liu](https://www.linkedin.com/in/kailun-liu-12a69718b/) (currently a research intern at [Johns Hopkins University](https://www.jhu.edu/) in Baltimore, the US) & [Hugo Bost](https://www.linkedin.com/in/hugo-bost/) (currently a PhD student at [the Architecture et Fonction des Macromolécules Biologiques Laboratory](https://www.afmb.univ-mrs.fr/en/laboratory/) in Marseilles, France). Both Kailun and Hugo spent 2 months working in our team.
+In this position, I worked for 1 year as a teaching assistant for younger students in my major of molecular biotechnology. I assisted Prof. Dr. Carl Herrmann in the creation and maintenance of excersise sheets for R beginner's course for students in the year before me. These sheets were designed to be interactive Rmarkdown documents to replace the pre-pandemic excersise sheets. Furthermore, I followed, mentored and assisted 4 teams of 4 Bachelor students each along their first data analysis project in R on the topic of DNA methylation in AML and ALL cancer data. 
