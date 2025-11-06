@@ -8,48 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-I am broadly interested in scientific research. While my career thus far focused on image processing for cryo-electron tomography, I am actively seeking opportunities to apply my skill set to new challenges both within and beyond image processing across the natural sciences. I am devoted to a lifelong secular pilgrimage to understand the nature of reality through sustained study of philosophy, mathematics, and the physical sciences.
+I am broadly interested in development and application of Machine Learning based data analysis tools for research purposes. I have a strong background in bioinformatics, with genomic, phylogenetic, transcriptomics, epigenetic and image data analysis experience, but I am open to applying my skills in different fields. Throughout my career, I have found many opportunities to apply what I learned in my bioinformatics experiences to new problems in different fields. I am fast learner and a creative problem solver and I like to cultivate soft skills such as science communication, project management and more.  I am fluent in Italian, German and English, I speak French on B1 level and I am currently learning Mandarin.
 
-Currently
-------
-
-2025-2027
-
-I am a starting Postdoctoral fellow at the [Inria Centre at Rennes University](https://www.inria.fr/en/inria-centre-rennes-university), a site of [Inria](https://www.inria.fr/en), the French National Institute for Computer Science and Applied Mathematics. Within the [SERPICO](https://team.inria.fr/serpico/) (Space-timE RePresentation, Imaging and cellular dynamics of molecular COmplexes
-) team which develops mathematical and computational methods to study the spatiotemporal organisation and dynamics of molecular and cellular processes, my work focuses on developing image processing methods that bridge light microscopy and cryo-electron tomography.
 
 Previously
 ------
 
-2021-2025
+2024-2025
 
-I carried out my PhD at the [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168), an interdiscipinary research unit of [Institut Curie](https://curie.fr/) that uses physics to understand living matter. While [my team](https://institut-curie.org/team/levy) specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, [my project](https://copper-antoinette-68.tiiny.site) was focused on the development and application of image processing tools for characterising membrane morphologies and resolving membrane protein structures from cryo-electron tomography data. 
+I worked as the head bioinformatician of the Crocker group in the Developmental Biology Unit at the EMBL institute in Heidelberg. Here, I continued to develop data analysis methodologies and build them into robust nextflow pipelines for the ongoing toxicology screen project of D. melanogaster. This work built on my previous work [published in Science](https://doi.org/10.1126/science.ado0251). In this position I also acted as an internal data consultant for all my experimentally oriented colleagues and contributed to the design of experimental screens. 
 
-2018-2021
+During my time at EMBL, I also volunteered as a tour guide and a speaker at the Molecular Cell Biology course for Educators on the topic of Omics data and analysis methods. I was part of the Board Game club and I co-founded the table-top RPG club which I still oversee and co-manage.
 
-Before I started my PhD, I was a master student at [Heidelberg University](https://www.uni-heidelberg.de/en), where I focused my coursework in bioinformatics and computational biology. Through research internships, I gained experience in the fields of microfluidics (synthetic biology), proteomics (cancer biology), single-cell RNA sequencing (evolution), molecular dynamics (biochemical physics), and image processing for cryo-electron tomography (virology).
+2021-2024
 
-2015-2018
+I was a master student in Molecular Biotechnology (faculty of Engineering) in the track of Bioinformatics. As a part of my degree, i completed 5 research internships in laboratories in Heidelberg, Paris and Canberra. My internships abroad were financed by winning multiple scholarships and travel grants, including the DAAD RISE programme. Notably, my internship at the EMBL institute in Heidelberg resulted in a [Science publication](https://doi.org/10.1126/science.ado0251) and I returned to the same laboratory to work as bioinformatician. This major allowed me to advance my education in data analysis and development and I graduated after a 6-month master thesis project on ML-driven spatial multiomic data integration in cancer with prof. Dr. Carl Herrmann. 
 
-I completed my bachelor study in science at [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), an honours college of [Utrecht University](https://www.uu.nl/en), where I focused on the following subjects (tracks): cognitive neuroscience, chemistry, molecular cell biology, & medicine (gained pre-med qualification). Some topics of my track-finishing projects: spatial perception, brain imaging with fMRI/MRI, drug design, and plant molecular biology. Topics of my research internships: therapeutic nanoparticles, development and cancer modelling in organoids.
 
-Future
-------
+2017-2021
 
-2027-?
+I completed my bachelor studies in Molecular Biotechnology (Faculty of Biosciences) at Heidelberg University. As part of this major, I was trained in microbiology, molecular biology, biochemistry, biophysics, immunology, pharmacology and especially bioinformatics, which is my chosen specialisation track. During my Bachelor programme I won the NAKATANiI Foundation RISE programme that allowed me to complete a 6-week internship in mathematical biology in Kyoto at the InFront Institute and I completed my thesis in 2021 with Prof. Julio Saez-Rodriguez by supporting the development of the ML tool CARNIVAL.
 
-I intend to pursue, ideally, an assistant professorship or another postdoctoral position following the completion of my first postdoctoral contract. I plan to continue working in the field of image processing, or more broadly, computational imaging, with applications to treating and interpreting scientific images. I am currently invested in the following relevant aspects: deep learning architectures for limited training data, physics-informed image reconstruction methods, and explainable methods. I am not actively seeking industrial positions, but I would be glad to support NGOs, think tanks, startups and companies that make positive environmental and social impacts.
 
 Hobbies
 ------
 
-As a child, I practised gymnastics, learnt to play the piano, won awards in art and creative writing competitions. As a teen, my interests completely shifted to sciences. Instead, I won awards in Olympiad maths, innovative physics, and academic debate competitions. 
-
-Nowadays, since my work happens to be my major hobby, I am taking it easy. I enjoy going around on my kickscooter, taking care of my pet lizard and his live food, struggling to play the majestic [otamatone](https://www.youtube.com/watch?v=_I7nCZVky40) well (one day), doing [amateur landscape photography](https://www.instagram.com/cyansingjikching/?hl=en) when I travel and/or hike, going urban exploring, bouldering, and playing [DnD or games alike](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) with friends, I dungeon master. 
+Digital Art and Illustration
+Science Education and Communication
+Strategy Boardgames
+Tabletop RPGS
+Tennis, Tabletennis,  Snowboarding
 
 Contact
 ------
 
-The Physical Chemistry Curie Lab, 11 Rue Pierre et Marie Curie, 75005 Paris
-
-xingyi.cheng@curie.fr
+matteo.spatuzzi@gmail.com
+(https://www.linkedin.com/in/matteo-spatuzzi-406777174/)
