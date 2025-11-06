@@ -42,6 +42,22 @@ I am a bioinformatician with a strong interest in data science and programming. 
 
 ---
 
+## **Skill Summary**
+
+**Programming and Development:** 
+Python and R/Bioconductor scripting, Building pipelines with Nextflow, Docker containerization of code; GitHub/GitLab; Version Control, High Performance Cluster computing (slurm), Unit testing
+
+**Data Science & Computing:**  
+Python (advanced), R (advanced), Multivariate analysis, Statistical modelling, Machine learning model development, Graph-baded Deep learning with PyTorch, Experimental screen analysis, Pipeline development (Docker, Nextflow)  
+
+**Bioinformatics:**  
+Bulk, single-cell and spatial omics analysis, Differential gene expression, Gene set enrichment analysis, Multi-omics integration  
+
+**Wet Lab:**  
+Prokaryotic & mammalian (MDCK) cell culture, _D. melanogaster_ husbandry, DNA isolation, PCR, cloning, gel electrophoresis, antibody staining, confocal microscopy  
+
+---
+
 ## **Professional Experience**
 
 ### **Data Scientist**  
@@ -74,36 +90,23 @@ _Science_. https://doi.org/10.1126/science.ado0251
 **Data Analysis & Method Development Intern** *(Apr 2023 – Jun 2023)*  
 **EMBL Heidelberg** – Prof. Justin Crocker  
 - Developed behavioural data analysis methods for _D. melanogaster_ toxicology screening  
-- Contributed data and analysis to Science publication https://doi.org/10.1126/science.ado0251  
+- Contributed data and analysis to [Science publication](https://doi.org/10.1126/science.ado0251 )  
 
-**Master Research Intern** *(Oct 2022 – Mar 2023)*  
+**Intern in Biophysics** *(Oct 2022 – Mar 2023)*  
 **Institut Jacques-Monod, Paris** – Prof. Renée Marc-Mège & Prof. Benoit Ladoux  
 - Implemented synthetic DNA linker-based cell adhesion system in E-Cadherin–negative MDCK cells  
 
-**Master Research Intern** *(May 2022 – Jul 2022)*  
+**Intern in Drug Discovery** *(May 2022 – Jul 2022)*  
 **DKFZ, Heidelberg** – Dr. Nicholas Gunkel  
 - Assisted with vector cloning for _E. coli_ lineage expressing SETDB1  
 
-**Master Research Intern** *(Oct 2021 – Feb 2022)*  
+**Intern in Bioinformatics** *(Oct 2021 – Feb 2022)*  
 **Australian National University, Canberra** – Prof. Lindell Bromham  
 - Developed R pipeline integrating sequencing and phylogenetic data for evolutionary analysis  
 
-**Bachelor Research Intern** *(Aug 2019 – Sep 2019)*  
+**Intern in Mathematical Biology** *(Aug 2019 – Sep 2019)*  
 **InFront, Kyoto** – Prof. Atsushi Mochizuki  
 - Applied graph theory for inference of protein interaction network behaviour  
-
----
-
-## **Research Skills**
-
-**Data Science & Computing:**  
-Python (advanced), R (advanced), Multivariate analysis, Statistical modelling, Machine learning model development, Deep learning with PyTorch, Experimental screen analysis, Pipeline development (Docker, Nextflow)  
-
-**Bioinformatics:**  
-Bulk, single-cell and spatial omics analysis, Differential gene expression, Gene set enrichment analysis, Multi-omics integration  
-
-**Wet Lab:**  
-Prokaryotic & mammalian (MDCK) cell culture, _D. melanogaster_ husbandry, DNA isolation, PCR, cloning, gel electrophoresis, antibody staining, confocal microscopy  
 
 ---
 
