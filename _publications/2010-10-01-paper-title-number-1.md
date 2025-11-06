@@ -1,16 +1,12 @@
 ---
-title: "A workflow for exploring ligand
-dissociation from a macromolecule:
-Efficient random acceleration molecular
-dynamics simulation and interaction
-fingerprint analysis of ligand trajectories"
+title: "Pervasive sublethal effects of agrochemicals on insects at environmentally relevant concentrations"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'The dissociation of ligands from proteins and other biomacromolecules occurs over a wide range of timescales. For most pharmaceutically relevant inhibitors, these timescales are far beyond those that are accessible by conventional molecular dynamics (MD) simulation. Consequently, to explore ligand egress mechanisms and compute dissociation rates, it is necessary to enhance the sampling of ligand unbinding. Random Acceleration MD (RAMD) is a simple method to enhance ligand egress from a macromolecular binding site, which enables the exploration of ligand egress routes without prior knowledge of the reaction coordinates. Furthermore, the τRAMD procedure can be used to compute the relative residence times of ligands. When combined with a machine-learning analysis of protein–ligand interaction fingerprints (IFPs), molecular features that affect ligand unbinding kinetics can be identified. Here, we describe the implementation of RAMD in GROMACS 2020, which provides significantly improved computational performance, with scaling to large molecular systems. For the automated analysis of RAMD results, we developed MD-IFP, a set of tools for the generation of IFPs along unbinding trajectories and for their use in the exploration of ligand dynamics. We demonstrate that the analysis of ligand dissociation trajectories by mapping them onto the IFP space enables the characterization of ligand dissociation routes and metastable states. The combined implementation of RAMD and MD-IFP provides a computationally efficient and freely available workflow that can be applied to hundreds of compounds in a reasonable computational time and will facilitate the use of τRAMD in drug design.'
-date: 2020-09-25
-venue: 'The Journal of Chemical Physics'
-paperurl: 'https://pubs.aip.org/aip/jcp/article-abstract/153/12/125102/1062851/A-workflow-for-exploring-ligand-dissociation-from?redirectedFrom=fulltext'
-citation: 'Kokh, D. B., Doser, B., Richter, S., Ormersbach, F., Cheng, X. (Ching, C.), & Wade, R. C. (2020). A workflow for exploring ligand dissociation from a macromolecule: Efficient random acceleration molecular dynamics simulation and interaction fingerprint analysis of ligand trajectories. The Journal of Chemical Physics, 153(12), 125102.'
+excerpt: 'Insect biomass is declining globally, likely driven by climate change and pesticide use, yet systematic studies on the effects of various chemicals remain limited. In this work, we used a chemical library of 1024 molecules—covering insecticides, herbicides, fungicides, and plant growth inhibitors—to assess the impact of sublethal pesticide doses on insects. In Drosophila melanogaster, 57% of chemicals affected larval behavior, and a higher proportion compromised long-term survivability. Exposure to sublethal doses also induced widespread changes in the phosphoproteome and changes in development and reproduction. The negative effects of agrochemicals were amplified when the temperature was increased. We observed similar behavioral changes across multiple insect species, including mosquitoes and butterflies. These findings suggest that widespread sublethal pesticide exposure can alter insect behavior and physiology, threatening long-term population survival.'
+date: 2024-10-24
+venue: 'Science'
+paperurl: 'https://www.science.org/doi/10.1126/science.ado0251'
+citation: 'Lautaro Gandara et al. ,Pervasive sublethal effects of agrochemicals on insects at environmentally relevant concentrations.Science386,446-453(2024).DOI:10.1126/science.ado0251'
 ---
 
 [Download paper here](http://cyanching.github.io/files/Paper_1.pdf)
