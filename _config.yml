@@ -15,11 +15,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Cyan Ching"
-description              : &description "Postdoctoral researcher"
-url                      : https://cyanching.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Matteo Spatuzzi"
+description              : &description "M.Sc. Bioinformatics"
+url                      : https://matteospatuzzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cyanching/cyanching.github.io"
+repository               : "matteospatuzzi/matteospatuzzi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,15 +86,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cyan Ching"
+  name             : "Matteo Spatuzzi"
   avatar           : "profile.jpeg"
-  bio              : "Postdoctoral researcher working in method development for microscopy image processing."
-  location         : "Rennes, France"
-  employer         : "INRIA Centre Rennes"
+  bio              : "M.Sc. graduate in bioinformatics working on data analysis and method development."
+  location         : "Heidelberg, Germany"
+  employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=zIZXttEAAAAJ&hl=en&oi=ao"
-  email            : "xingyi.cheng@curie.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "matteo.spatuzzi@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Matteo-Spatuzzi"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,20 +102,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cyanching"
+  github           : "matteospatuzzi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  #linkedin         : "https://www.linkedin.com/in/cyan-ching-303767b7/?originalSubdomain=de"
-  orcid            : "https://orcid.org/0000-0002-2519-7490"
+  linkedin         : "https://www.linkedin.com/in/matteo-spatuzzi-406777174/"
+  orcid            : "https://orcid.org/0009-0007-0188-9461"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ChingCyan"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
