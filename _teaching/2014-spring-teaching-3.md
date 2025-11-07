@@ -1,7 +1,7 @@
 ---
 title: "Bioinformatics Tutor"
 collection: teaching
-type: "Bioinfromatics Tutor"
+type: "Bioinformatics Tutor"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Institute for Pharmacology and Molecular Biotechnology (IPMB)"
 date: 2021-4-15
