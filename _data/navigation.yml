@@ -30,7 +30,7 @@ main:
     url: /publications/
 
   - title: "Portfolio"
-    url: /experience/
+    url: /experiences/
 
   - title: "Talks"
     url: /talks/    
