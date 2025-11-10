@@ -1,6 +1,6 @@
 ---
 title: "4EU+ DeepLife 2024 Hackathon"
-excerpt: "Participated in the organisation as well as an attendee of the 4EU+ DeepLife 2024 course and Hackathon member. The 4EU+ circle is a network of european universities inclusing Paris Sorbonne, Heidelberg University and Politecnico di Milano amongst others. The circle facilitates the exchange of ideas as well as academic cooperation between universities."
+excerpt: "Participated in the organisation as well as an attendee of the [4EU+ DeepLife 2024 course](https://deeplife4eu.github.io/) and Hackathon member. The [4EU+ circle](https://4euplus.eu/4EU-1.html) is a network of european universities inclusing Paris Sorbonne, Heidelberg University and Politecnico di Milano amongst others. The circle facilitates the exchange of ideas as well as academic cooperation between universities."
 collection: portfolio
 ---
 
