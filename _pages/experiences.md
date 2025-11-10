@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Portfolio"
+title: Portfolio
+layout: collection
 permalink: /experiences/
-author_profile: true
+collection: experiences
+entries_layout: grid
+classes: wide
 ---
 
 {% include base_path %}
