@@ -29,11 +29,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Portfolio"
+    url: /experience/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
+
   - title: "Outreach"
     url: /portfolio/
