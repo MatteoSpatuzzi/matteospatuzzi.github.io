@@ -42,5 +42,5 @@ Tennis, Tabletennis,  Snowboarding<br>
 Contact
 ------
 
-matteo.spatuzzi@gmail.com
-(https://www.linkedin.com/in/matteo-spatuzzi-406777174/)
+[matteo.spatuzzi@gmail.com](matteo.spatuzzi@gmail.com)<br>
+[LinkedIn](https://www.linkedin.com/in/matteo-spatuzzi-406777174/)
