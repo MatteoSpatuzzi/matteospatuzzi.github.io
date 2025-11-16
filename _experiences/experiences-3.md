@@ -4,8 +4,6 @@ excerpt: "In evolutionary theory, genomic mutation followed by natural selection
 collection: experiences
 ---
 
-# Classification of abnormal behaviour in D. melanogaster larvae
-
 ## Abstract
 
 "In evolutionary theory, genomic mutation followed by natural selection, also known as microevolution, gives rise to species change and variation, leading to the current phylogeny of life, the process known as macroevolution. Despite this causal relationship, few studies have attempted to directly investigate the influence of the former on the latter by looking for a link between the synonymous mutation rate of individual nucleotides and the diversification rate within a monophyletic group of organisms. We designed a generalised pipeline to run these types of analyses on any phylogenetic data for any group of organisms. 
